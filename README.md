@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HiruniWijerathna/My-profile](https://github.com/HiruniWijerathna/My-profile)
+- 👨‍💻 All of my projects are available at [https://github.com/HiruniWijerathna/My-profile](https://hiruniwijerathna.github.io/My-profile/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/HiruniWijerathna/My-profile/Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
+- 📄 Know about my experiences [https://hiruniwijerathna.github.io/My-profile/#resume](https://hiruniwijerathna.github.io/My-profile/#resume)
 
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
