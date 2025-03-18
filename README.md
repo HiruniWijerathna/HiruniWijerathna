@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HiruniWijerathna/My-profile](https://hiruniwijerathna.github.io/My-profile/)
+- 👨‍💻 All of my projects are available at [https://hiruniwijerathna.github.io/My-profile/](https://hiruniwijerathna.github.io/My-profile/)
 
 - 💬 Ask me about **React**
 
