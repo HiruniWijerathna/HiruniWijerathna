@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruniwijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="hiruniwijerathna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiruniwijerathna" alt="hiruniwijerathna" /></a> </p>
-
 - 🔭 I’m currently working on [De Silva Wine Stores - Welimada - An e-commerce website for a local wine store](https://github.com/ZNilakshi/Capstone-Project)
 
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://hiruniwijerathna.github.io/My-profile/](https://hiruniwijerathna.github.io/My-profile/)
+- 👨‍💻 All of my projects are available at [https://github.com/HiruniWijerathna/My-profile](https://github.com/HiruniWijerathna/My-profile)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
 
-- 📄 Know about my experiences [https://hiruniwijerathna.github.io/My-profile/#resume](https://hiruniwijerathna.github.io/My-profile/#resume)
+- 📄 Know about my experiences [https://github.com/HiruniWijerathna/My-profile/Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
 
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
