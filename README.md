@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruniwijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="hiruniwijerathna" /> </p>
 
+<p align="left"> <a href="https://twitter.com/hirunitw" target="blank"><img src="https://img.shields.io/twitter/follow/hirunitw?logo=twitter&style=for-the-badge" alt="hirunitw" /></a> </p>
+
 - 🔭 I’m currently working on [De Silva Wine Stores - Welimada - An e-commerce website for a local wine store](https://github.com/ZNilakshi/Capstone-Project)
 
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
@@ -23,6 +25,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100057057754937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100057057754937" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" height="30" width="40" /></a>
+<a href="https://medium.com/@hiruniwijerathna7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hiruniwijerathna7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hiruniwijerathn2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hiruniwijerathn2" height="30" width="40" /></a>
 </p>
 
