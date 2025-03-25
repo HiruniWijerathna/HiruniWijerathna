@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="myphoto.jpg" alt="Hiruni Wijerathna" width="200" style="border-radius: 50%;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Hiruni Wijerathna</h1>
 <h3 align="center">Exploring Code, Embracing Challenges, and Innovating.</h3>
 
