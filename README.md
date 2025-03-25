@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruniwijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="hiruniwijerathna" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hirunitw" target="blank"><img src="https://img.shields.io/twitter/follow/hirunitw?logo=twitter&style=for-the-badge" alt="hirunitw" /></a> </p>
-
 - 🔭 I’m currently working on [De Silva Wine Stores - Welimada - An e-commerce website for a local wine store](https://github.com/ZNilakshi/Capstone-Project)
 
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
