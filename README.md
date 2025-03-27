@@ -39,25 +39,6 @@
   </a>
 </p>
 
-<style>
-  p a:hover img {
-    transform: scale(1.2);
-    box-shadow: 0px 6px 12px rgba(0,0,0,0.3);
-    opacity: 0.9;
-  }
-
-  p a:active img {
-    transform: scale(1);
-    opacity: 1;
-  }
-
-  p a img {
-    transition: all 0.3s ease;
-  }
-</style>
-
-
-
 ## 🛠️ Languages & Tools
 
 <table align="center" width="80%" style="background-color:#1e1e1e; color:white; border-radius:10px; border-collapse:collapse; padding:20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
@@ -148,14 +129,6 @@
     </td>
   </tr>
 </table>
-
-<style>
-  table td:hover {
-    background-color: #3c3c3c;
-    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.2);
-    transform: scale(1.1);
-  }
-</style>
 
 
 ## 📊 GitHub Stats
