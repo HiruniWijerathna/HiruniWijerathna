@@ -157,21 +157,17 @@
   }
 </style>
 
+
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-
-  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; max-width: 500px; background-color: #181818;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruniwijerathna&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto; border-radius: 12px;">
-  </div>
-
-  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; max-width: 500px; background-color: #181818;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hiruniwijerathna&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto; border-radius: 12px;">
-  </div>
-
-  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; max-width: 500px; background-color: #181818;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruniwijerathna&theme=dark" alt="GitHub Streak" style="width: 100%; height: auto; border-radius: 12px;">
-  </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruniwijerathna&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); margin: 20px 0;">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiruniwijerathna&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); margin: 20px 0;">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruniwijerathna&theme=dark" alt="GitHub Streak" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); margin: 20px 0;">
+</div>
