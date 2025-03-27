@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [De Silva Wine Stores - Welimada](https://github.com/ZNilakshi/Capstone-Project)
 - 🌱 I’m currently learning **React, Java, Java Spring Boot**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/HiruniWijerathna/My-profile)
+- 👨‍💻 All of my projects are available at [My Portfolio]( https://hiruniwijerathna.github.io/My-profile/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
