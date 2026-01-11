@@ -26,7 +26,9 @@
   ">
   <tr>
     <!-- Twitter -->
-    <td style="padding:10px; background-color:#1DA1F2; border-radius:8px;">
+    <td style="padding:10px; background-color:#1DA1F2; border-radius:8px;  transform: scale(1.15);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    cursor: pointer;">
       <a href="https://twitter.com/hirunitw" target="_blank" rel="noreferrer">
         <div style="
           width:50px;
@@ -154,13 +156,7 @@
       </a>
     </td>
   </tr>
-  <style>
-  .icon-hover:hover {
-    transform: scale(1.15);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    cursor: pointer;
-  }
-</style>
+
 </table>
 
 
