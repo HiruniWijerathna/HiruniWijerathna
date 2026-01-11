@@ -31,7 +31,9 @@
         />
       </a>
     </td>
- <tr>
+  </tr>
+
+  <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank">
         <img
@@ -43,7 +45,9 @@
         />
       </a>
     </td>
- <tr>
+  </tr>
+
+  <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank">
         <img
@@ -55,7 +59,9 @@
         />
       </a>
     </td>
- <tr>
+  </tr>
+
+  <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" target="_blank">
         <img
@@ -67,7 +73,9 @@
         />
       </a>
     </td>
- <tr>
+  </tr>
+
+  <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://medium.com/@hiruniwijerathna7" target="_blank">
         <img
@@ -79,7 +87,9 @@
         />
       </a>
     </td>
- <tr>
+  </tr>
+
+  <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank">
         <img
@@ -93,6 +103,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
