@@ -17,107 +17,81 @@
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
 ## 🌎 Connect With Me
-
-<table align="center" width="80%" style="background:#111; border-radius:14px; padding:18px; box-shadow:0 6px 18px rgba(0,0,0,0.4);">
+<table align="center" width="80%" style="background-color:#1e1e1e; border-radius:12px; border-collapse:collapse; padding:20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   <tr>
     <!-- Twitter -->
-    <td align="center">
-      <a href="https://twitter.com/hirunitw" target="_blank">
-        <div class="icon twitter">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://twitter.com/hirunitw" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="24" height="24" />
         </div>
       </a>
     </td>
     <!-- LinkedIn -->
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank">
-        <div class="icon linkedin">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" />
         </div>
       </a>
     </td>
     <!-- Facebook -->
-    <td align="center">
-      <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank">
-        <div class="icon facebook">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="24" height="24" />
         </div>
       </a>
     </td>
     <!-- Instagram -->
-    <td align="center">
-      <a href="https://www.instagram.com/hiruni_t_wijerathna" target="_blank">
-        <div class="icon instagram">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24" />
         </div>
       </a>
     </td>
     <!-- TikTok -->
-    <td align="center">
-      <a href="https://www.tiktok.com/@hiruniwijerathna3" target="_blank">
-        <div class="icon tiktok">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.tiktok.com/@hiruniwijerathna3" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="24" height="24" style="filter: invert(1);" />
         </div>
       </a>
     </td>
     <!-- Threads -->
-    <td align="center">
-      <a href="https://www.threads.com/@hiruni_t_wijerathna" target="_blank">
-        <div class="icon threads">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.threads.com/@hiruni_t_wijerathna" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" alt="Threads" width="24" height="24" style="filter: invert(1);" />
         </div>
       </a>
     </td>
     <!-- Medium -->
-    <td align="center">
-      <a href="https://medium.com/@hiruniwijerathna7" target="_blank">
-        <div class="icon medium">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://medium.com/@hiruniwijerathna7" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="24" height="24" />
         </div>
       </a>
     </td>
     <!-- HackerRank -->
-    <td align="center">
-      <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank">
-        <div class="icon hackerrank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank" rel="noreferrer" style="text-decoration:none;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; transition: transform 0.2s;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="24" height="24" />
         </div>
       </a>
     </td>
-
   </tr>
 </table>
-
+<!-- Hover effect -->
 <style>
-  .icon {
-    width:52px;
-    height:52px;
-    border-radius:12px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    transition:all 0.25s ease;
-    box-shadow:0 4px 10px rgba(0,0,0,0.35);
+  td div:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    cursor: pointer;
   }
-
-  .icon img {
-    width:26px;
-    filter: invert(1);
-  }
-
-  .icon:hover {
-    transform: translateY(-4px) scale(1.05);
-    box-shadow:0 10px 22px rgba(0,0,0,0.55);
-  }
-
-  .twitter { background:#1DA1F2; }
-  .linkedin { background:#0A66C2; }
-  .facebook { background:#1877F2; }
-  .instagram { background:linear-gradient(45deg,#F58529,#DD2A7B,#8134AF); }
-  .tiktok { background:#000; }
-  .threads { background:#000; }
-  .medium { background:#000; }
-  .hackerrank { background:#2EC866; }
 </style>
 
 
