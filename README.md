@@ -75,6 +75,22 @@
         </div>
       </a>
     </td>
+        <!-- Instagram -->
+    <td style="padding:10px; background-color:#E1306C; border-radius:8px;">
+      <a href="https://www.instagram.com/hiruni_t_wijerathna" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
     <!-- TikTok -->
     <td style="padding:10px; background-color:#000000; border-radius:8px;">
       <a href="https://www.tiktok.com/@hiruniwijerathna3" target="_blank" rel="noreferrer">
@@ -88,22 +104,6 @@
         " class="icon-hover">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg"
                width="24" height="24" style="filter:invert(1);" />
-        </div>
-      </a>
-    </td>
-    <!-- Instagram -->
-    <td style="padding:10px; background-color:#E1306C; border-radius:8px;">
-      <a href="https://www.instagram.com/hiruni_t_wijerathna" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-        " class="icon-hover">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-               width="24" height="24" />
         </div>
       </a>
     </td>
