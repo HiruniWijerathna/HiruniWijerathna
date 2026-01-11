@@ -22,7 +22,7 @@
     <!-- Twitter -->
     <td style="padding:10px; text-align:center;">
       <a href="https://twitter.com/hirunitw" target="_blank" rel="noreferrer">
-        <div style="width:50px; height:50px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#3f4f4f; display:flex; align-items:center; justify-content:center;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="24" height="24" />
         </div>
       </a>
