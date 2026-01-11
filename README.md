@@ -19,7 +19,6 @@
 ## 🌎 Connect With Me
 <table align="center" width="80%"
   style="
-  color:#586360;
     background-color:#586360;
     border-radius:12px;
     border-collapse:collapse;
@@ -32,7 +31,6 @@
         <div style="
           width:50px;
           height:50px;
-           color:#586360;
           background-color:#586360;
           border-radius:8px;
           display:flex;
@@ -40,11 +38,13 @@
           justify-content:center;
         ">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-               width="24" height="24"   style="background-color:#586360;" />
+               width="24" height="24" />
         </div>
       </a>
     </td>
+     </tr>
     <!-- LinkedIn -->
+    <tr>
     <td style="padding:10px;">
       <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank" rel="noreferrer">
         <div style="
@@ -61,7 +61,9 @@
         </div>
       </a>
     </td>
+       </tr>
     <!-- Facebook -->
+      <tr>
     <td style="padding:10px;">
       <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank" rel="noreferrer">
         <div style="
@@ -78,24 +80,9 @@
         </div>
       </a>
     </td>
-    <!-- Instagram -->
-    <td style="padding:10px;">
-      <a href="https://www.instagram.com/hiruni_t_wijerathna" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          background-color:#586360;
-          border-radius:8px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-        ">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-               width="24" height="24" />
-        </div>
-      </a>
-    </td>
+         </tr>
     <!-- TikTok -->
+        <tr>
     <td style="padding:10px;">
       <a href="https://www.tiktok.com/@hiruniwijerathna3" target="_blank" rel="noreferrer">
         <div style="
@@ -112,7 +99,28 @@
         </div>
       </a>
     </td>
-    <!-- Threads -->
+           </tr>
+    <!-- Instagram -->
+          <tr>
+    <td style="padding:10px;">
+      <a href="https://www.instagram.com/hiruni_t_wijerathna" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          background-color:#586360;
+          border-radius:8px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+        ">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
+             </tr>
+        <!-- Threads -->
+            <tr>
     <td style="padding:10px;">
       <a href="https://www.threads.com/@hiruni_t_wijerathna" target="_blank" rel="noreferrer">
         <div style="
@@ -129,7 +137,9 @@
         </div>
       </a>
     </td>
+               </tr>
     <!-- Medium -->
+              <tr>
     <td style="padding:10px;">
       <a href="https://medium.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
         <div style="
@@ -146,7 +156,9 @@
         </div>
       </a>
     </td>
+                 </tr>
     <!-- HackerRank -->
+                <tr>
     <td style="padding:10px;">
       <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank" rel="noreferrer">
         <div style="
@@ -164,7 +176,7 @@
       </a>
     </td>
 
-  </tr>
+ 
 </table>
 
 
