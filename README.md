@@ -19,6 +19,7 @@
 ## 🌎 Connect With Me
 <table align="center" width="80%"
   style="
+  color:586360;
     background-color:#586360;
     border-radius:12px;
     border-collapse:collapse;
