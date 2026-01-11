@@ -155,6 +155,22 @@
         </div>
       </a>
     </td>
+     <!-- YouTube -->
+    <td style="padding:10px; background-color:#FF0000; border-radius:8px;">
+      <a href="http://www.youtube.com/@Hiruni_Wijerathna" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
   </tr>
 
 </table>
