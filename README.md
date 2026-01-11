@@ -40,7 +40,7 @@
           justify-content:center;
         ">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-               width="24" height="24" />
+               width="24" height="24"   style="background-color:#586360;" />
         </div>
       </a>
     </td>
