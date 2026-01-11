@@ -32,6 +32,7 @@
         <div style="
           width:50px;
           height:50px;
+           color:#586360;
           background-color:#586360;
           border-radius:8px;
           display:flex;
