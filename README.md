@@ -17,7 +17,7 @@
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
 ## 🌎 Connect With Me
-<table align="center" width="80%" style="background-color:#1e1e1e; border-radius:12px; border-collapse:collapse; padding:20px;">
+<table align="center" width="80%" style="background-color:#3f4f4f; border-radius:12px; border-collapse:collapse; padding:20px;">
   <tr>
     <!-- Twitter -->
     <td style="padding:10px; text-align:center;">
