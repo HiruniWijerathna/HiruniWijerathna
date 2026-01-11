@@ -20,74 +20,74 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 8px;">
+    <td align="center" style="padding: 12px;">
       <a href="https://twitter.com/hirunitw" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
           alt="Twitter"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#1DA1F2;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#1DA1F2;"
         />
       </a>
     </td>
- <tr>
-    <td align="center" style="padding: 8px;">
+<tr>
+    <td align="center" style="padding: 12px;">
       <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
           alt="LinkedIn"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#0077B5;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#0077B5;"
         />
       </a>
     </td>
- <tr>
-    <td align="center" style="padding: 8px;">
+<tr>
+    <td align="center" style="padding: 12px;">
       <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
           alt="Facebook"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#1877F2;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#1877F2;"
         />
       </a>
     </td>
- <tr>
-    <td align="center" style="padding: 8px;">
+<tr>
+    <td align="center" style="padding: 12px;">
       <a href="https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
           alt="Instagram"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#E1306C;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#E1306C;"
         />
       </a>
     </td>
- <tr>
-    <td align="center" style="padding: 8px;">
+<tr>
+    <td align="center" style="padding: 12px;">
       <a href="https://medium.com/@hiruniwijerathna7" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
           alt="Medium"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#000000;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#000000;"
         />
       </a>
     </td>
- <tr>
-    <td align="center" style="padding: 8px;">
+<tr>
+    <td align="center" style="padding: 12px;">
       <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank">
         <img
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
           alt="HackerRank"
-          width="35"
-          height="35"
-          style="border-radius:50%; padding:6px; background:#2EC866;"
+          width="40"
+          height="40"
+          style="border-radius:50%; padding:8px; background:#2EC866;"
         />
       </a>
     </td>
