@@ -8,8 +8,8 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on [De Silva Wine Stores - Welimada](https://github.com/ZNilakshi/Capstone-Project)
-- 🌱 I’m currently learning **React, Java, Java Spring Boot**
+- 🔭 I’m currently working on [Japanese Beauty & Personal Care Export Sales Website](https://github.com/HiruniWijerathna/Japan-Online)
+- 🌱 I’m currently learning **React, Java, MongoDB, Express.js, Node.js**
 - 👨‍💻 All of my projects are available at [My Portfolio]( https://hiruniwijerathna.github.io/My-profile/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
