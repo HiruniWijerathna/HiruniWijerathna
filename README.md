@@ -20,24 +20,96 @@
 
 <p align="center">
   <a href="https://twitter.com/hirunitw" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="50" alt="Twitter" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #1DA1F2, #1C82E8); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Twitter"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #1DA1F2, #1C82E8);
+        box-shadow: 0 4px 12px rgba(29, 161, 242, 0.4);
+      "
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" alt="LinkedIn" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #0077B5, #005F8A); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #0077B5, #005F8A);
+        box-shadow: 0 4px 12px rgba(0, 119, 181, 0.4);
+      "
+    />
   </a>
+
   <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" alt="Facebook" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #1877F2, #165D9C); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #1877F2, #165D9C);
+        box-shadow: 0 4px 12px rgba(24, 119, 242, 0.4);
+      "
+    />
   </a>
+
   <a href="https://www.instagram.com/hiruni_t_wijerathna?igsh=bjztajrybzhxy3dh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50" alt="Instagram" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #E1306C, #D61C5C); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #E1306C, #D61C5C);
+        box-shadow: 0 4px 12px rgba(225, 48, 108, 0.4);
+      "
+    />
   </a>
+
   <a href="https://medium.com/@hiruniwijerathna7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="50" width="50" alt="Medium" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #46003a, #340029); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="Medium"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #46003a, #340029);
+        box-shadow: 0 4px 12px rgba(70, 0, 58, 0.4);
+      "
+    />
   </a>
+
   <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" alt="HackerRank" style="border-radius: 50%; border: 3px solid transparent; padding: 10px; background-image: linear-gradient(45deg, #2EC866, #26C758); background-origin: border-box; background-clip: content-box; transition: all 0.3s ease;"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="HackerRank"
+      height="50"
+      width="50"
+      style="
+        border-radius: 50%;
+        padding: 10px;
+        background: linear-gradient(45deg, #2EC866, #26C758);
+        box-shadow: 0 4px 12px rgba(46, 200, 102, 0.4);
+      "
+    />
   </a>
 </p>
+
 
 
 ## 🛠️ Languages & Tools
