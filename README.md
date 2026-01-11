@@ -17,12 +17,12 @@
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
 ## 🌎 Connect With Me
-<table align="center" width="80%" style="background-color:#3f4f4f; border-radius:12px; border-collapse:collapse; padding:20px;">
+<table align="center" width="80%" style="background-color:#586360; border-radius:12px; border-collapse:collapse; padding:20px;">
   <tr>
     <!-- Twitter -->
     <td style="padding:10px; text-align:center;">
       <a href="https://twitter.com/hirunitw" target="_blank" rel="noreferrer">
-        <div style="width:50px; height:50px; border-radius:50%; background:#3f4f4f; display:flex; align-items:center; justify-content:center;">
+        <div style="width:50px; height:50px; border-radius:50%; background:#586360; display:flex; align-items:center; justify-content:center;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="24" height="24" />
         </div>
       </a>
@@ -85,6 +85,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
