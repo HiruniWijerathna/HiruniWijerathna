@@ -1,4 +1,4 @@
-<p align="center">   <img src="myphoto.jpg" alt="Hiruni Wijerathna Banner" width="100%" /> </p>   
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/62b464f3-1b3e-4914-8c37-5a03b00cdf8d" /><p align="center">   <img src="myphoto.jpg" alt="Hiruni Wijerathna Banner" width="100%" /> </p>   
 <h1 align="center">Hi 👋, I'm Hiruni Wijerathna</h1>
 <h3 align="center">Exploring Code, Embracing Challenges, and Innovating.</h3>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Japanese Beauty & Personal Care Export Sales Website](https://github.com/HiruniWijerathna/Japan-Online)
 - 🌱 I’m currently learning **React, Java, MongoDB, Express.js, Node.js**
-- 👨‍💻 All of my projects are available at [My Portfolio]( https://my-web-psi-olive.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hiruniwijerathna.vercel.app/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
