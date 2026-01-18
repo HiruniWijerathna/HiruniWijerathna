@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Japanese Beauty & Personal Care Export Sales Website](https://github.com/HiruniWijerathna/Japan-Online)
 - 🌱 I’m currently learning **React, Java, MongoDB, Express.js, Node.js**
-- 👨‍💻 All of my projects are available at [My Portfolio]( https://hiruniwijerathna.github.io/My-profile/)
+- 👨‍💻 All of my projects are available at [My Portfolio]( https://my-web-psi-olive.vercel.app/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
@@ -93,7 +93,7 @@
     </td>
     <!-- TikTok -->
     <td style="padding:10px; background-color:#000000; border-radius:8px;">
-      <a href="https://www.tiktok.com/@hiruniwijerathna3" target="_blank" rel="noreferrer">
+      <a href="https://www.tiktok.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
         <div style="
           width:50px;
           height:50px;
