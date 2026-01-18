@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/62b464f3-1b3e-4914-8c37-5a03b00cdf8d" /><p align="center">   <img src="myphoto.jpg" alt="Hiruni Wijerathna Banner" width="100%" /> </p>   
+<img src="myphoto.jpg" alt="Hiruni Wijerathna Banner" width="100%" /> </p>   
 <h1 align="center">Hi 👋, I'm Hiruni Wijerathna</h1>
 <h3 align="center">Exploring Code, Embracing Challenges, and Innovating.</h3>
 
