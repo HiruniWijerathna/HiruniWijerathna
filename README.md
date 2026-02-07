@@ -283,13 +283,14 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
       </a>
     </td>
+          <!-- Astro -->
+    <td style="padding:15px; text-align:center; transition: transform 0.3s, box-shadow 0.3s; border-radius:10px; background-color:#2c2c2c; border:2px solid transparent;">
+      <a href="https://astro.build/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="50" height="50" />
+      </a>
+    </td>
   </tr>
-  <!-- Astro -->
-<td style="padding:15px; text-align:center; transition: transform 0.3s, box-shadow 0.3s; border-radius:10px; background-color:#2c2c2c; border:2px solid transparent;">
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="50" height="50" />
-  </a>
-</td>
+
 </table>
 
 
