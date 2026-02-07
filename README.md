@@ -73,6 +73,23 @@
         </div>
       </a>
     </td>
+               <!-- Pinterest -->
+    <td style="padding:10px; background-color:#ffffff; border-radius:8px;">
+      <a href="https://pin.it/6BouK5OhH" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+          color: #E60023; /* Pinterest red */
+        ">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
     <!-- Twitter -->
     <td style="padding:10px; background-color:#1DA1F2; border-radius:8px;  transform: scale(1.15);
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -104,23 +121,6 @@
         " class="icon-hover">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg"
                width="24" height="24" style="filter:invert(1);" />
-        </div>
-      </a>
-    </td>
-           <!-- Pinterest -->
-    <td style="padding:10px; background-color:#ffffff; border-radius:8px;">
-      <a href="https://pin.it/6BouK5OhH" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-          color: #E60023; /* Pinterest red */
-        ">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg"
-               width="24" height="24" />
         </div>
       </a>
     </td>
