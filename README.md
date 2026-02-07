@@ -25,6 +25,54 @@
     padding:20px;
   ">
   <tr>
+       <!-- LinkedIn -->
+    <td style="padding:10px; background-color:#0A66C2; border-radius:8px;">
+      <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
+     <!-- HackerRank -->
+    <td style="padding:10px; background-color:#2EC866; border-radius:8px;">
+      <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
+       <!-- Medium -->
+    <td style="padding:10px; background-color:#000000; border-radius:8px;">
+      <a href="https://medium.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+               width="24" height="24" />
+        </div>
+      </a>
+    </td>
     <!-- Twitter -->
     <td style="padding:10px; background-color:#1DA1F2; border-radius:8px;  transform: scale(1.15);
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -43,9 +91,9 @@
         </div>
       </a>
     </td>
-    <!-- LinkedIn -->
-    <td style="padding:10px; background-color:#0A66C2; border-radius:8px;">
-      <a href="https://www.linkedin.com/in/hiruni-wijerathna-ab23a728a/" target="_blank" rel="noreferrer">
+        <!-- Threads -->
+    <td style="padding:10px; background-color:#000000; border-radius:8px;">
+      <a href="https://www.threads.com/@hiruni_t_wijerathna" target="_blank" rel="noreferrer">
         <div style="
           width:50px;
           height:50px;
@@ -54,12 +102,28 @@
           justify-content:center;
           transition: all 0.3s;
         " class="icon-hover">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-               width="24" height="24" />
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg"
+               width="24" height="24" style="filter:invert(1);" />
         </div>
       </a>
     </td>
-    <!-- Facebook -->
+        <!-- Pinterest -->
+    <td style="padding:10px; background-color:#E60023; border-radius:8px;">
+      <a href="https://pin.it/6BouK5OhH" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg"
+               width="24" height="24" style="filter:invert(1);" />
+        </div>
+      </a>
+    </td>
+      <!-- Facebook -->
     <td style="padding:10px; background-color:#1877F2; border-radius:8px;">
       <a href="https://www.facebook.com/profile.php?id=100057057754937" target="_blank" rel="noreferrer">
         <div style="
@@ -91,71 +155,7 @@
         </div>
       </a>
     </td>
-    <!-- TikTok -->
-    <td style="padding:10px; background-color:#000000; border-radius:8px;">
-      <a href="https://www.tiktok.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-        " class="icon-hover">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg"
-               width="24" height="24" style="filter:invert(1);" />
-        </div>
-      </a>
-    </td>
-    <!-- Threads -->
-    <td style="padding:10px; background-color:#000000; border-radius:8px;">
-      <a href="https://www.threads.com/@hiruni_t_wijerathna" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-        " class="icon-hover">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg"
-               width="24" height="24" style="filter:invert(1);" />
-        </div>
-      </a>
-    </td>
-    <!-- Medium -->
-    <td style="padding:10px; background-color:#000000; border-radius:8px;">
-      <a href="https://medium.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-        " class="icon-hover">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-               width="24" height="24" />
-        </div>
-      </a>
-    </td>
-    <!-- HackerRank -->
-    <td style="padding:10px; background-color:#2EC866; border-radius:8px;">
-      <a href="https://www.hackerrank.com/hiruniwijerathn2" target="_blank" rel="noreferrer">
-        <div style="
-          width:50px;
-          height:50px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          transition: all 0.3s;
-        " class="icon-hover">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-               width="24" height="24" />
-        </div>
-      </a>
-    </td>
-     <!-- YouTube -->
+         <!-- YouTube -->
     <td style="padding:10px; background-color:#FF0000; border-radius:8px;">
       <a href="http://www.youtube.com/@Hiruni_Wijerathna" target="_blank" rel="noreferrer">
         <div style="
@@ -171,13 +171,26 @@
         </div>
       </a>
     </td>
+    <!-- TikTok -->
+    <td style="padding:10px; background-color:#000000; border-radius:8px;">
+      <a href="https://www.tiktok.com/@hiruniwijerathna7" target="_blank" rel="noreferrer">
+        <div style="
+          width:50px;
+          height:50px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          transition: all 0.3s;
+        " class="icon-hover">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg"
+               width="24" height="24" style="filter:invert(1);" />
+        </div>
+      </a>
+    </td> 
+
   </tr>
 
 </table>
-
-
-
-
 
 
 
