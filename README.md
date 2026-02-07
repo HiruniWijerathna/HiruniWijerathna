@@ -107,8 +107,8 @@
         </div>
       </a>
     </td>
-        <!-- Pinterest -->
-    <td style="padding:10px; background-color:#E60023; border-radius:8px;">
+          <!-- Pinterest -->
+    <td style="padding:10px; background-color:#ffffff; border-radius:8px;">
       <a href="https://pin.it/6BouK5OhH" target="_blank" rel="noreferrer">
         <div style="
           width:50px;
@@ -117,9 +117,9 @@
           align-items:center;
           justify-content:center;
           transition: all 0.3s;
-        " class="icon-hover">
+        ">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg"
-               width="24" height="24" style="filter:invert(1);" />
+               width="24" height="24" />
         </div>
       </a>
     </td>
