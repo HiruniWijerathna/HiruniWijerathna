@@ -107,7 +107,7 @@
         </div>
       </a>
     </td>
-          <!-- Pinterest -->
+           <!-- Pinterest -->
     <td style="padding:10px; background-color:#ffffff; border-radius:8px;">
       <a href="https://pin.it/6BouK5OhH" target="_blank" rel="noreferrer">
         <div style="
@@ -117,6 +117,7 @@
           align-items:center;
           justify-content:center;
           transition: all 0.3s;
+          color: #E60023; /* Pinterest red */
         ">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg"
                width="24" height="24" />
