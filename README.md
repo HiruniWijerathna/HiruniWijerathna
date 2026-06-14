@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on [Japanese Beauty & Personal Care Export Sales Website](https://github.com/HiruniWijerathna/Japan-Online)
+- 🔭 I’m currently working on [Fitness App – Android Fitness Tracking System](https://github.com/HiruniWijerathna/Fitness-App)
 - 🌱 I’m currently learning **React, Java, MongoDB, Express.js, Node.js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hiruniwijerathna.vercel.app/)
 - 💬 Ask me about **React**
