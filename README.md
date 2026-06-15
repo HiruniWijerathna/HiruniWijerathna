@@ -9,7 +9,7 @@
 ## 🔥 About Me
 
 - 🔭 I’m currently working on [Fitness App – Android Fitness Tracking System](https://github.com/HiruniWijerathna/Fitness-App)
-- 🌱 I’m currently learning **React, Java, MongoDB, Express.js, Node.js**
+- 🌱 I’m currently learning **Mobile App Development with Kotlin, and Cloud Technologies**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hiruniwijerathna.vercel.app/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
