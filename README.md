@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hiruniwijerathna.vercel.app/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **hiruniwijerathna7@gmail.com**
-- 📄 Know about my experiences [My Resume](https://github.com/HiruniWijerathna/My-profile/Resume)
+- 📄 Know about my experiences [My Resume](https://hiruniwijerathna.vercel.app/#resume)
 - ⚡ Fun fact **When nothing works, I take a break… and somehow it fixes itself. 🛠️**
 
 ## 🌎 Connect With Me
